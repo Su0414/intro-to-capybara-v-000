@@ -1,4 +1,4 @@
 # Write your code here!
-require 'config/environment.rb'
+require './config/environment.rb'
 
 run App
